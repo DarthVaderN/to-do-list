@@ -1,0 +1,12 @@
+{
+    "name": "MVC-TEST-TASK",
+    "authors": [
+        {
+            "name": "Nurlan",
+            "email": "nurik91boss@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [ "app" ]
+    }
+}
